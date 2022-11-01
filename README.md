@@ -11,14 +11,14 @@
 <!-- * [Vista por Cima](#vista-pro-cima) -->
   <!-- * [Foto da Tela](#foto-da-tela) -->
   <!-- * [Links](#links) -->
-* [Meu Processo](#meu-processo)
-  * [Construido com](#construido-com)
-  * [O que Aprendi](#o-que-aprendi)
-  * [Desenvolvimento Continuo](#desenvolvimento-continuo)
-  * [Recursos Uteis](#recursos-uteis)
-* [Autores](#autores)
-* [Agradecimentos](#agradecimentos)
-* [Informações](#informações)
+<!-- * [Meu Processo](#meu-processo) -->
+  <!-- * [Construido com](#construido-com) -->
+  <!-- * [O que Aprendi](#o-que-aprendi) -->
+  <!-- * [Desenvolvimento Continuo](#desenvolvimento-continuo) -->
+  <!-- * [Recursos Uteis](#recursos-uteis) -->
+<!-- * [Autores](#autores) -->
+<!-- * [Agradecimentos](#agradecimentos) -->
+<!-- * [Informações](#informações) -->
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-pre-amb-alg-log-par-pro-bas-ava&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
