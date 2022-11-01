@@ -1,6 +1,10 @@
 <!-- Titulo -->
 # Preparando o Ambiente
 
+***Conteúdo do Módulo:***
+
+* [ ] [Instalação e Configuração no Windows.](https://github.com/Devsgeeknerd/cla-ins-con-win-pre-amb-alg-log-par-pro-bas-ava "Ver aula")
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-pre-amb-alg-log-par-pro-bas-ava&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=f9e64f&color=008000 "Total de Seguidores")
