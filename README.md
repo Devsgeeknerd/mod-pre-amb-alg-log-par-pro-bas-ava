@@ -8,6 +8,6 @@
 &nbsp;
 ![Forks](https://img.shields.io/github/forks/Devsgeeknerd/?style=p&label=Bifurcações&labelColor=f9e64f&color=008000 "Total de Bifurcações")
 &nbsp;
-![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/?style=p&label=Tamanho&labelColor=f9e64f&color=008000 "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/mod-pre-amb-alg-log-par-pro-bas-ava?style=p&label=Tamanho&labelColor=f9e64f&color=008000 "Tamanho do Repositório")
 &nbsp;
-![License](https://img.shields.io/github/license/Devsgeeknerd/mod-pre-amb-alg-log-pra-pro-bas-ava?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/mod-pre-amb-alg-log-par-pro-bas-ava?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
