@@ -9,7 +9,7 @@
 <!-- ## Tabela de Conteúdos -->
 
 <!-- * [Vista por Cima](#vista-pro-cima) -->
-* []()
+  <!-- * [Foto da Tela](#foto-da-tela) -->
 * []()
 * []()
   * []()
